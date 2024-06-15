@@ -43,6 +43,8 @@ on specific business rules and print out the invoice to the customer.
 We'll assess your solution based on the following criteria:
 - Code quality: Well-structured and maintainable code.
 - Accuracy: Ensure accurate calculations and adherence to business rules.
+- Object-Oriented Programming: Proper usage of object-oriented programming principles.
+
 
 
 
