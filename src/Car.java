@@ -1,5 +1,5 @@
 public class Car extends Vehicle {
-    private int safetyRating;
+    private final int safetyRating;
 
     public Car(String brand, String model, double value, int safetyRating) {
         super(brand, model, value);
